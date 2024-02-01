@@ -3,6 +3,7 @@
 ## Hello there!
 
 Oi! Tenho 18 anos, paraibano com orgulho e, nas horas em que não estou resolvendo listas de cálculo ou feedando na bot lane, eu desenvolvo algo legal aqui e ali.
+</br>
 Já quis ser ator, gamedev, abrir um restaurante, mas atualmente estou namorando a área de dados e acho que ela é pra casar.
 
 📚 Cursando graduação em Ciência de Dados e Inteligência Artificial pela Universidade Federal da Paraíba
