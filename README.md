@@ -8,11 +8,11 @@ Já quis ser ator, gamedev, abrir um restaurante, mas atualmente estou namorando
 📚 Cursando graduação em Ciência de Dados e Inteligência Artificial pela Universidade Federal da Paraíba
 
 ### 🖥️ Já brinquei com:
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
 
 </br>
 </br>
