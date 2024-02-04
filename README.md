@@ -21,7 +21,7 @@ Já quis ser ator, gamedev, abrir um restaurante, mas atualmente estou namorando
 🔎 Buscando fazer com que o hoje seja sempre melhor do que o ontem
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/pedroLucabral">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroLucabral&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
