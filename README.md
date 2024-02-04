@@ -7,6 +7,7 @@ Oi! Tenho 18 anos, paraibano com orgulho e, nas horas em que não estou resolven
 Já quis ser ator, gamedev, abrir um restaurante, mas atualmente estou namorando a área de dados e acho que ela é pra casar.
 
 🎓 Técnico em Informática integrado ao ensino médio pela ECIT Alice Carneiro (2020-2022)
+</br>
 📚 Cursando graduação em Ciência de Dados e Inteligência Artificial pela Universidade Federal da Paraíba (2023-)
 
 ### 🖥️ Já brinquei com:
